@@ -1,0 +1,64 @@
+.logo{
+height: 200px;
+padding-left:25em;
+}
+
+.droite{
+padding-left: 65em;
+display:
+
+}
+
+.tete{
+display: inline;
+}
+
+#conteneur{
+
+  position: relative;
+}
+
+.pont{
+margin-left: none;
+
+
+}
+
+.gaming{
+padding: 150px 30%;
+height: 25%;
+width: 25%;
+}
+
+.conteneur {
+height: 764px;
+width: 100%;
+background-image: url('../images/accueil2.png');
+background-position: 50% 50%;
+}
+
+.history {
+padding: 7em;
+
+}
+
+.fiches {
+margin-left: 6em;
+
+}
+
+header{
+  background-color: white;
+  flex-direction: row;
+
+}
+
+body {
+
+  background:	black;
+  color:#fff;
+}
+
+ul {
+  list-style-type: none;
+}
