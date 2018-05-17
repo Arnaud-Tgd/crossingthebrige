@@ -67,7 +67,9 @@ margin-left: none;
 }
 
 .rejouez{
-padding-left: 22em;
+  padding: 150px 30%;
+  height: 25%;
+  width: 25%;
 
 }
 
@@ -75,6 +77,13 @@ padding-left: 22em;
 padding: 150px 30%;
 height: 25%;
 width: 25%;
+}
+
+.conteneur2 {
+height: 764px;
+width: 100%;
+background-image: url('../images/jeu/image-victoire.png');
+background-position: 50% 50%;
 }
 
 .conteneur {
