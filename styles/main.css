@@ -68,8 +68,15 @@ padding-left: 7em;
 
 }
 
-.rejouez{
+.victoire{
   padding: 115px 26%;
+  height: 25%;
+  width: 25%;
+
+}
+
+.rejouez{
+  padding: 115px 30%;
   height: 25%;
   width: 25%;
 
