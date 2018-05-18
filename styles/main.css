@@ -75,8 +75,15 @@ padding-left: 7em;
 
 }
 
+.textedefaite{
+font-family: chewy; cursive;
+font-size: 10em;
+padding-left: 20px;
+color: red;
+}
+
 .rejouez{
-  padding: 115px 30%;
+  padding: 70px 30%;
   height: 25%;
   width: 25%;
 
